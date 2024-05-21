@@ -20,4 +20,4 @@ security:
           strategy: triggeringUsersAuthorizationStrategy
 unclassified:
   location:
-    url: http://localhost:8080/
+    url: http://13.200.249.154:8080/
